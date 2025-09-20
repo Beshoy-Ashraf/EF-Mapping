@@ -118,3 +118,4 @@
 /home/besho/EFcore/Mapping/Mapping/obj/Debug/net9.0/Mapping.pdb
 /home/besho/EFcore/Mapping/Mapping/obj/Debug/net9.0/Mapping.genruntimeconfig.cache
 /home/besho/EFcore/Mapping/Mapping/obj/Debug/net9.0/ref/Mapping.dll
+/home/besho/EFcore/Mapping/Mapping/obj/Debug/net9.0/Mapping.sourcelink.json

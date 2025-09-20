@@ -8,13 +8,13 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 namespace Mapping.Data.Configrations;
 
 
-public class ConfigrationWithCorprate : IEntityTypeConfiguration<Corprate>
+public class ConfigrationWithCorporate : IEntityTypeConfiguration<Corporate>
 {
-      public void Configure(EntityTypeBuilder<Corprate> builder)
+      public void Configure(EntityTypeBuilder<Corporate> builder)
       {
 
 
-            builder.ToTable("Corprate");
+            builder.ToTable("Corporate");
 
       }
 

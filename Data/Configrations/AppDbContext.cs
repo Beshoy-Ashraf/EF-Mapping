@@ -14,7 +14,7 @@ namespace Mapping.Data
             public DbSet<Section> sections { get; set; }
             public DbSet<Participant> Participants { get; set; }
             public DbSet<Individual> Individuals { get; set; }
-            public DbSet<Corprate> Corprates { get; set; }
+            public DbSet<Corporate> Corporates { get; set; }
             public DbSet<Enrollment> Enrollments { get; set; }
             public DbSet<TimeSlot> TimeSlot { get; set; }
             public DbSet<MultipleChoiceQuiz> MultipleChoiceQuizes { get; set; }

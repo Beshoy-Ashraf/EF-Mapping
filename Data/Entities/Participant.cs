@@ -21,7 +21,7 @@ public class Individual : Participant
       }
 }
 
-public class Corprate : Participant
+public class Corporate : Participant
 {
       public string Company { get; set; }
       public string JobTitle { get; set; }

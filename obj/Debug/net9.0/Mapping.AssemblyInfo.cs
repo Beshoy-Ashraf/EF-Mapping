@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mapping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b17c675aea8fe4513c7d703d1b5582c2cb3e3e3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mapping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mapping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
